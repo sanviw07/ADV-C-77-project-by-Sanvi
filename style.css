@@ -1,0 +1,14 @@
+body { 
+    text-align: center;
+    background-color: aquamarine;
+    border-radius: 20;
+    border-width: 3px;
+    border-style: double;
+    border-color: black;
+}
+h1 {
+    font-family: Algerian;
+}
+h3 {
+    font-family: monospace;
+}
